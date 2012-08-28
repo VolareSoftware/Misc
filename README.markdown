@@ -1,1 +1,1 @@
-This is a public repo of little helper and utility methods and extensions.  Hopefully you'll find something useful here!
+Thes are little helper and utility methods and extensions.  Hopefully you'll find something useful here!
