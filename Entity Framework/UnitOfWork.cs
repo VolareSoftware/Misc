@@ -14,7 +14,7 @@ namespace Core
 
         public UnitOfWork(ICurrentUser currentUser)
         {
-
+            _currentUser = currentUser;
         }
 
         public IRepository<T> RepositoryFor<T>() where T : Entity
